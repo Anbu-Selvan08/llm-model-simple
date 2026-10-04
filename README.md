@@ -1,3 +1,5 @@
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
+
 # LLM AI Chat Bot App Starter Setup
 
 This template provides a minimal setup to get React 19 working in Vite with HMR and some ESLint rules.
